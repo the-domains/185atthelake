@@ -1,0 +1,28 @@
+name: 185atthelake
+favicon: null
+layout_spectrum: 0.7926784949377179
+typography_spectrum: 0.5461341820191592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6055215934757143
+  lightness: 0.7192145837470889
+  saturation: 0.2523031937889755
+  rhythmicContrast: 0.2741096264217049
+purpose: []
